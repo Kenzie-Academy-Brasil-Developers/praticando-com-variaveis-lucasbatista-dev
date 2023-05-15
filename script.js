@@ -7,3 +7,4 @@ let ano = prompt ("Digite em que ano você está falando")
 let idade = (ano) - (anoNascimento)
 
 console.log(`Olá, me chamo ${nome} ${sobrenome}, tenho ${idade} anos e moro em ${cidade} / ${estado} `)
+alert(`Olá, me chamo ${nome} ${sobrenome}, tenho ${idade} anos e moro em ${cidade} / ${estado} `)
